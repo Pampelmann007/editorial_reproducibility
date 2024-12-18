@@ -76,11 +76,11 @@ In a previous [editorial](https://journalofdigitalhistory.org/en/article/m7DWqDj
 <!-- #endregion -->
 
 <!-- #region editable=true slideshow={"slide_type": ""} tags=["narrative"] -->
-In our journal, we put strong emphasis on reproducibility, enabling readers to use the original data to regenerate the same results. To ensure the reproducibility - specifically of the articles' code - the JDH team has defined a thorough technical review enabling all published articles to be run on the reader's computer or to be run by services like MyBinder or Google Colab with a single click.
+Since the beginning of our journal, we put strong emphasis on reproducibility, enabling readers to use the original data to regenerate the same results. To ensure reproducibility - specifically of the articles' code - the JDH team has defined a thorough technical review enabling all published articles to be run on the reader's computer or to be run by services like MyBinder or Google Colab with a single click.
 <!-- #endregion -->
 
 <!-- #region editable=true slideshow={"slide_type": ""} tags=["narrative"] -->
-Though we are happy of the work achieve, the continuous development of our complex publishing platform while running the journal remains challenging. After four years of back-end and front-end development and almost three years of editorial life, we know that ensuring reproducibility comes at a cost: time. While we do our utmost to keep the timespan between submission of an article and its sustainable online publication as short as possible, the complex workflow is often more time consuming than expected. As editors and developers, we aim at making the itinerary process as smooth and efficient as possible, but we are aware of the fact that some of our authors would have loved to see their innovative work being published more rapidly. 
+Though we are happy of the work achieved so far, the continuous development of our complex publishing platform while running the journal remains challenging. After four years of back-end and front-end development and almost three years of editorial life, we know that ensuring reproducibility comes at a cost: time. While we do our utmost to keep the timespan between submission of an article and its sustainable online publication as short as possible, the complex workflow is often more time-consuming than expected. As editors and developers, we aim at making the itinerary process as smooth and efficient as possible, but we are aware of the fact that some of our authors would have loved to see their innovative work being published more rapidly. 
 <!-- #endregion -->
 
 <!-- #region editable=true slideshow={"slide_type": ""} tags=["narrative"] -->
@@ -273,4 +273,4 @@ It is up to us to find the right balance between the rigour that is required to 
 <center>*</center>
 
 
-A few weeks ago, our colleague Lars Wieneke left the C<sup>2</sup>DH to start a new phase of his career outside academia. As head of the centre's digital infrastructure, Lars was an enthusiastic member of the team which built the *Journal of Digital History*. We wish to thank him for his fantastic contribution to this project.
+A few weeks ago, our colleague Lars Wieneke left the C<sup>2</sup>DH to start a new phase of his career outside academia. As head of the centre's digital infrastructure, Lars was an enthusiastic member of the team which build the *Journal of Digital History*. We wish to thank him for his important contribution to this project.
